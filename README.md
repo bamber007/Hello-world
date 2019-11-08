@@ -1,5 +1,4 @@
 # Hello-world
-Nov2019 repository,
-tech enthusiast,
-PhD student,
-adventurer
+
+Hello!
+Bamber here, I like feature engineering, I am a tech enthusiast, PhD student and adventurer.
